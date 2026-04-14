@@ -1,0 +1,17 @@
+*.parquet
+
+
+# Byte-compuled / optimized / DLL files
+*.parquet
+__pycache__/
+.venv/
+*.py[cod]
+.bruin.yml
+logs/runs
+logs/*.log
+logs/queries
+*.csv
+*.gz
+*.db
+data/
+target/
